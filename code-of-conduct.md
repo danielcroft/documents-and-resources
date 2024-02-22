@@ -41,7 +41,7 @@ Respectful behavior includes but is not limited to:
 * Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
 * Due regard for the feelings, wishes, rights, and traditions of others.
 
-If you're unclear if a communication, action, or behavior is respectful, ask the source instead of assuming. No, really. If don't find clarity, ask the [Administrators](#administrators) publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
+If you're unclear if a communication, action, or behavior is respectful, ask the source instead of assuming. No, really. If you don't find clarity, ask the [Administrators](#administrators) publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
 
 Don't be a bystander, be a leader. Role model respectful behavior, but also help to address disrespect when you see it within your community. 
 
@@ -199,7 +199,7 @@ You can contact them directly or post your questions or concerns in the [#rls-ad
 
 As part of the role, Administrators have information not available to all users. This information includes:
 
-* A member provides email addresses as part of our sign-up process.
+* A member provided email addresses as part of our sign-up process.
 * Information contained within member requests to join the community. This might include email, name, and occupation.
 * Access log information provided by the Slack administrator interface. This includes name, login times, login device, and IP.
 
